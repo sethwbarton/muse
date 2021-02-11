@@ -1,0 +1,15 @@
+{
+  "name": "muse",
+  "version": "1.0.0",
+  "description": "Make Music with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "webaudio"
+  ],
+  "author": "Seth Barton",
+  "license": "ISC"
+}
