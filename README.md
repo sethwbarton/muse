@@ -1,4 +1,8 @@
-muse
+# muse
+
+![side-projects](https://user-images.githubusercontent.com/33107324/133368359-6de923bf-b26a-4c99-86d4-121110de275a.jpeg)
+
+Yet another failed side project. Turn back before you are disappointed. The reality of this repository is that I had grand ideas (but I really wanted to learn how Web Audio works). I figured out the gist of how web audio works. So I stopped working on this crazy project. Read on if you must.
 
 ### Overview
 
